@@ -29,6 +29,9 @@ PhishShield processes data through an explainable, data-flow pipeline designed t
 * Outputs immediate triage instructions (e.g., *"Do not interact with links or submit sensitive details"*).
 * Offers an optional conversational loop providing foundational cybersecurity awareness training cards.
 
+### Interface & Detection Previews
+![PhishShield Chat UI Demo](screenshot1.png)
+
 ---
 
 ## Visualized System Workflow
