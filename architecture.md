@@ -33,3 +33,5 @@ PhishShield processes data through an explainable, data-flow pipeline designed t
 
 ## Visualized System Workflow
 *(To see the complete architecture diagram or live UI captures, navigate to the `/docs` directory or main repository view).*
+![System Architecture Flow](system_architecture_flow.png)
+
